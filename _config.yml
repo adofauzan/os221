@@ -1,0 +1,11 @@
+version:     "1.0"
+copyright:   "2022"
+author:      "Fauzan Ramadhanto"
+title:       "OS221: Operating Systems 2022-1"
+githublink:  "https://github.com/adofauzan/os221/"
+myloglink:   "TXT/mylog.txt"
+encoding:    UTF-8
+markdown:    kramdown
+input:       GFM
+hard_wrap:   false
+github:      [metadata]
