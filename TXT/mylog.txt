@@ -8,3 +8,9 @@ ZCZC W01 45 L01 PopQuiz
 ZCZC W01 180 L02 Class
 ZCZC W01 100 L06 Skim Reading
 ZCZC W01 5 L04 Checking
+ZCZC W02 200 L09 Doing homework
+ZCZC W02 180 L02 Class
+ZCZC W02 30 L07 Asking friend for help
+ZCZC W02 45 L06 skim reading
+ZCZC W02 20 L03 adding links
+ZCZC W02 5 L05 checking page
