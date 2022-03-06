@@ -30,6 +30,15 @@ This'll help with c commands
 5. [Regex Command Cheat Sheet](https://www.rexegg.com/regex-quickstart.html)
 This'll help with regex commands
 
+6. [Problem Fix: "gpg:decryption failed: no secret key"](https://linuxhint.com/solve-gpg-decryption-failed-no-secret-key-error/#:~:text=However%2C%20if%20you%20are%20getting,a%20situation%2C%20then%20no%20worries!)
+Fixing error that i had from unpacking tarball
+
+7. [File & FIle System Crash Course](https://www.youtube.com/watch?v=KN8YgJnShPM&ab_channel=CrashCourse)
+Helps understanding File & File Systems
+
+8. [Explaining File Systems: NTFS, exFAT, FAT32, ext4 & More](https://www.youtube.com/watch?v=_h30HBYxtws&ab_channel=ExplainingComputers)
+Also helps explaining file systems
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
