@@ -14,3 +14,8 @@ ZCZC W02 30 L07 Asking friend for help
 ZCZC W02 45 L06 skim reading
 ZCZC W02 20 L03 adding links
 ZCZC W02 5 L05 checking page
+ZCZC W03 90 L02 Class
+ZCZC W03 60 L06 Reading
+ZCZC W03 150 L09 Doing Assignments
+ZCZC W03 15 L09 Finishing Assignments
+ZCZC W03 13 L03 Adding links
