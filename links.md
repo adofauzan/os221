@@ -39,6 +39,10 @@ Helps understanding File & File Systems
 8. [Explaining File Systems: NTFS, exFAT, FAT32, ext4 & More](https://www.youtube.com/watch?v=_h30HBYxtws&ab_channel=ExplainingComputers)
 Also helps explaining file systems
 
+9. [How to make Makefile](https://opensource.com/article/18/8/what-how-makefile)
+
+10. [How to tar a file](https://www.cyberciti.biz/faq/how-to-tar-a-file-in-linux-using-command-line/)
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
