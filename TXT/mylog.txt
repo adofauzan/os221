@@ -21,3 +21,8 @@ ZCZC W03 15 L09 Finishing Assignments
 ZCZC W03 13 L03 Adding links
 ZCZC W04 130 L09 Doing Assignments
 ZCZC W04 180 L02 Class
+ZCZC W04 20 L01 QUIZ week 4
+ZCZC W04 60 L06 reading slides
+ZCZC W04 30 L07 
+ZCZC W04 15 L03 adding links
+ZCZC W04 60 L03 Fixing broken reference
