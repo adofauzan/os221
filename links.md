@@ -42,6 +42,12 @@ Also helps explaining file systems
 9. [How to make Makefile](https://opensource.com/article/18/8/what-how-makefile)
 
 10. [How to tar a file](https://www.cyberciti.biz/faq/how-to-tar-a-file-in-linux-using-command-line/)
+You also can do it with 'tar cf filename.tar directory/'
+
+11. [How to make file using C](https://www.cyberciti.biz/faq/how-to-tar-a-file-in-linux-using-comman)
+
+
+12. [How to change file mode in C](https://www.ibm.com/docs/SSLTBW_2.4.0/com.ibm.zos.v2r4.bpxbd00/rtchm.htm)
 
 <br>
 <hr>

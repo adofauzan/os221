@@ -26,3 +26,9 @@ ZCZC W04 60 L06 reading slides
 ZCZC W04 30 L07 
 ZCZC W04 15 L03 adding links
 ZCZC W04 60 L03 Fixing broken reference
+ZCZC W05 30 L01 QUIz week 5
+ZCZC W05 180 L02 Class
+ZCZC W05 120 L09 Assignment
+ZCZC W05 60 L06 Reading
+ZCZC W05 10 L03 checking git
+ZCZC W05 5 L05 checking page
