@@ -49,6 +49,8 @@ You also can do it with 'tar cf filename.tar directory/'
 
 12. [How to change file mode in C](https://www.ibm.com/docs/SSLTBW_2.4.0/com.ibm.zos.v2r4.bpxbd00/rtchm.htm)
 
+13. [Concurrency in OS](https://www.geeksforgeeks.org/concurrency-in-operating-system/#:~:text=Concurrency%20is%20the%20execution%20of,shared%20memory%20or%20message%20passing.)
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

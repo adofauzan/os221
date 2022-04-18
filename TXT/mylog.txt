@@ -32,3 +32,7 @@ ZCZC W05 120 L09 Assignment
 ZCZC W05 60 L06 Reading
 ZCZC W05 10 L03 checking git
 ZCZC W05 5 L05 checking page
+ZCZC W06 100 L09 Assignment
+ZCZC W06 8 L03 checking git
+ZCZC W06 180 L02 CLass
+ZCZC W06 30 L01 QUIZ week 6
